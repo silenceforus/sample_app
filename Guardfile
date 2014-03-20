@@ -33,4 +33,4 @@ guard 'rspec', all_after_pass: false, cli: '--drb' do
   end
 end
 
-notification :growl
+#notification :terminal-notifier
